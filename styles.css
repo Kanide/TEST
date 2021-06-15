@@ -1,6 +1,7 @@
 h1 {
     color:mediumpurple;
     font-size: 3em;
+    margin: auto;
 }
 .content {
     width: 960px;
